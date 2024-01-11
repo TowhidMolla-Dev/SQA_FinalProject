@@ -117,7 +117,7 @@ public class SQA_FinalProject {
         obj.navigateToHelpAndContact();
         obj.navigateToSell();
         obj.navigateToProfile();
-        obj.login("towhidm74@gmail.com", "n*Fn!h#Km3qXHhQThex");
+        obj.login("towhidm74@gmail.com", "jfjdjf");
         obj.closeBrowser();
     }
 }
